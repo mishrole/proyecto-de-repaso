@@ -2,3 +2,43 @@ html{
 	font-family: 'Raleway', sans-serif;
 	display: inline-block;
 }
+html{
+	font-family: 'Raleway', sans-serif;
+	display: inline-block;
+}
+
+#contenedor-index, #contenedor-registro{
+	margin-top: 150px;
+}
+
+#contenedor-inicio{
+	margin-top: 100px;
+
+}
+
+#contenedor-usuarios{
+	border: 1px solid black;
+	display: inline-block;
+	padding: 20px;
+}
+
+#form-registro{
+	display: inline-block;
+	text-align: left;
+}
+
+#registrate{
+	margin-top: 20px;
+	margin-left: 80px;
+}
+
+#alerta{
+	margin-left: 20px;
+	text-align: center;
+}
+
+.contenedor-boton{
+
+	margin-left: 400px;
+	margin-bottom: 130px;
+}
